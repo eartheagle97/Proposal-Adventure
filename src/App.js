@@ -57,9 +57,7 @@ function App() {
   }
 
   const handleReset = () => {
-    setActive(false);
-    setConfirmed(false);
-    setPosition({ x: "50%", y: "70%" });
+    window.location.reload(true);
   };
 
   const handleMouseMove = (e) => {
