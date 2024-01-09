@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Proposal-Adventure/static/css/main.288c3068.css",
+    "main.js": "/Proposal-Adventure/static/js/main.a743e36a.js",
+    "static/js/787.3438be5d.chunk.js": "/Proposal-Adventure/static/js/787.3438be5d.chunk.js",
+    "static/media/accepted.gif": "/Proposal-Adventure/static/media/accepted.17c44580db9d539b3c87.gif",
+    "static/media/proposal.gif": "/Proposal-Adventure/static/media/proposal.6b2a01180b54c741acea.gif",
+    "static/media/confused.gif": "/Proposal-Adventure/static/media/confused.2e7f46516fdda12e5ca7.gif",
+    "index.html": "/Proposal-Adventure/index.html",
+    "main.288c3068.css.map": "/Proposal-Adventure/static/css/main.288c3068.css.map",
+    "main.a743e36a.js.map": "/Proposal-Adventure/static/js/main.a743e36a.js.map",
+    "787.3438be5d.chunk.js.map": "/Proposal-Adventure/static/js/787.3438be5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.288c3068.css",
+    "static/js/main.a743e36a.js"
+  ]
+}
